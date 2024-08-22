@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theknight-1" alt="theknight-1" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?Theknight-1=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 🔭 I’m currently working on **expense-tracker-GQL**
 
 - 🌱 I’m currently learning **NEXTJS, Graphql and kafka.**
